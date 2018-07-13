@@ -1,0 +1,59 @@
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.exe.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.exe
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\GameEntityDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\GraphicDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\InputControllerDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\OpenGL.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\Tao.FreeGlut.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\glfw-net.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\GameEntityDll.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\GraphicDll.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\InputControllerDll.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\OpenGL.dll.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Release\Tao.FreeGlut.dll.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CoreCompileInputs.cache
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CopyComplete
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.exe
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.pdb
+C:\Imp\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csprojResolveAssemblyReference.cache
+C:\Imp\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CoreCompileInputs.cache
+C:\Imp\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.exe
+C:\Imp\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.exe.config
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.exe
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\ExtraFramework.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\AsteroidDll.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\OpenGL.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\Tao.FreeGlut.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\AsteroidDll.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\OpenGL.dll.config
+C:\Imp\GraphicDll\ExtraFramework\bin\Release\Tao.FreeGlut.dll.config
+C:\Imp\GraphicDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CopyComplete
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\ExtraFramework.exe.config
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\ExtraFramework.exe
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\ExtraFramework.pdb
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\AsteroidDll.dll
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\Tao.FreeGlut.dll
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\AsteroidDll.pdb
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\OpenGL.dll.config
+C:\Imp\AsteroidDll\ExtraFramework\bin\Release\Tao.FreeGlut.xml
+C:\Imp\AsteroidDll\ExtraFramework\obj\Release\ExtraFramework.csprojResolveAssemblyReference.cache
+C:\Imp\AsteroidDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CoreCompileInputs.cache
+C:\Imp\AsteroidDll\ExtraFramework\obj\Release\ExtraFramework.csproj.CopyComplete
+C:\Imp\AsteroidDll\ExtraFramework\obj\Release\ExtraFramework.exe
+C:\Imp\AsteroidDll\ExtraFramework\obj\Release\ExtraFramework.pdb
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\ExtraFramework.exe.config
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\ExtraFramework.exe
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\ExtraFramework.pdb
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\AsteroidDll.dll
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\Tao.FreeGlut.dll
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\AsteroidDll.pdb
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\OpenGL.dll.config
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\bin\Release\Tao.FreeGlut.xml
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\obj\Release\ExtraFramework.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\obj\Release\ExtraFramework.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\obj\Release\ExtraFramework.csproj.CopyComplete
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\obj\Release\ExtraFramework.exe
+C:\Users\Roman\Desktop\Работа\Source\ExtraFramework\obj\Release\ExtraFramework.pdb

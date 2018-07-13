@@ -1,0 +1,28 @@
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.exe
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.pdb
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\Tao.FreeGlut.dll
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\Tao.FreeGlut.dll.config
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csproj.CoreCompileInputs.cache
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csproj.CopyComplete
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.exe
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.pdb
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.exe.config
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\OpenGL.dll
+c:\users\roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\OpenGL.dll.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\AsteroidDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\ExtraFramework\bin\Debug\AsteroidDll.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.exe.config
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.exe
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\ExtraFramework.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\AsteroidDll.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\OpenGL.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\Tao.FreeGlut.dll
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\AsteroidDll.pdb
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\OpenGL.dll.config
+C:\Imp\GraphicDll\ExtraFramework\bin\Debug\Tao.FreeGlut.dll.config
+C:\Imp\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csprojResolveAssemblyReference.cache
+C:\Imp\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csproj.CoreCompileInputs.cache
+C:\Imp\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.csproj.CopyComplete
+C:\Imp\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.exe
+C:\Imp\GraphicDll\ExtraFramework\obj\Debug\ExtraFramework.pdb

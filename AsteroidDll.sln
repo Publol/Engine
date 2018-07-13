@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraFramework", "ExtraFramework\ExtraFramework.csproj", "{2891CD8E-E20F-4795-ACB7-3009E16A0A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidDll", "AsteroidDll\AsteroidDll.csproj", "{1E203832-C1E1-4798-BA54-CC4887BF5D88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2891CD8E-E20F-4795-ACB7-3009E16A0A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2891CD8E-E20F-4795-ACB7-3009E16A0A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2891CD8E-E20F-4795-ACB7-3009E16A0A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2891CD8E-E20F-4795-ACB7-3009E16A0A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E203832-C1E1-4798-BA54-CC4887BF5D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E203832-C1E1-4798-BA54-CC4887BF5D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E203832-C1E1-4798-BA54-CC4887BF5D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E203832-C1E1-4798-BA54-CC4887BF5D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33864E7-89F2-42B1-8BF8-7DA02A04F621}
+	EndGlobalSection
+EndGlobal
