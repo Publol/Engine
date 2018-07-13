@@ -1,0 +1,23 @@
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csprojResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csproj.CoreCompileInputs.cache
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\AsteroidDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\AsteroidDll.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\OpenGL.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\OpenGL.dll.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csproj.CopyComplete
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.pdb
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\AsteroidDll.dll
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\AsteroidDll.pdb
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\Tao.FreeGlut.dll
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\OpenGL.dll.config
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\Tao.FreeGlut.xml
+C:\Imp\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csprojResolveAssemblyReference.cache
+C:\Imp\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csproj.CoreCompileInputs.cache
+C:\Imp\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.csproj.CopyComplete
+C:\Imp\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.dll
+C:\Imp\GraphicDll\AsteroidDll\obj\Debug\AsteroidDll.pdb
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\OpenGL.dll
+C:\Imp\GraphicDll\AsteroidDll\bin\Debug\Tao.OpenGl.dll

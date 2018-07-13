@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E203832-C1E1-4798-BA54-CC4887BF5D88}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AsteroidDll</RootNamespace>
+    <AssemblyName>AsteroidDll</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OpenGL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Users\Roman\Desktop\OpenGL_GitHub\libs\OpenGL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tao.FreeGlut, Version=2.4.0.2, Culture=neutral, PublicKeyToken=6e602a6ad6c0d06d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\OpenGL_GitHub\libs\Tao.FreeGlut.dll</HintPath>
+    </Reference>
+    <Reference Include="Tao.OpenGl, Version=2.1.0.12, Culture=neutral, PublicKeyToken=1ca010269a4501ef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Users\Roman\Desktop\opengl4tutorials-master\Tao.OpenGl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consts.cs" />
+    <Compile Include="Controller\Controller.cs" />
+    <Compile Include="Controller\Enums.cs" />
+    <Compile Include="GameEntity\Core\Entities\BaseEntity.cs" />
+    <Compile Include="GameEntity\Core\Entities\BulletEntity.cs" />
+    <Compile Include="GameEntity\Core\Entities\EnemyEntity.cs" />
+    <Compile Include="GameEntity\Core\Entities\PlayerEntity.cs" />
+    <Compile Include="GameEntity\Core\Game\GameObject.cs" />
+    <Compile Include="Factory.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\ExtraGraphicModul.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\InertMoveModel.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\LifeTimeModel.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\MoveByAngleModel.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\MoveToTargetModel.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\OutOfWindowSizeModel.cs" />
+    <Compile Include="GameEntity\Enums.cs" />
+    <Compile Include="GameEntity\Core\Callbacks\CallbacksHandler.cs" />
+    <Compile Include="Graphic\Core\GraphicModules\GraphicModule.cs" />
+    <Compile Include="Graphic\Core\GraphicModules\IGraphicModule.cs" />
+    <Compile Include="Graphic\Core\GraphicModules\TexturedGraphicModule.cs" />
+    <Compile Include="MainGraphic.cs" />
+    <Compile Include="MainLogic.cs" />
+    <Compile Include="MainLoop.cs" />
+    <Compile Include="Graphic\Core\Shaders\ShaderData.cs" />
+    <Compile Include="Graphic\Core\Shaders\ShadersSignature.cs" />
+    <Compile Include="Graphic\Enums.cs" />
+    <Compile Include="Input\Command.cs" />
+    <Compile Include="Input\CommandHandler.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\IBaseInnerModel.cs" />
+    <Compile Include="GameEntity\Core\Logic\GameInnerModels\DeadByConditionModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototype.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
