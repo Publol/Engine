@@ -37,27 +37,27 @@ namespace AsteroidDll
         public static T CreateCopyOf<T>(string prototypeID)
             where T: class
         {
-          
-            if (typeof(T).Name.Equals("GameObject"))
+
+
+            if (typeof(T).Equals(typeof(GameObject)))
             {
                 if (_gameObjectPrototypes.ContainsKey(prototypeID))
                 {
                     BaseEntity entity = _gameObjectPrototypes[prototypeID].Entity;
-                    string typeString = entity.ToString();
                     GameObject obj = null;
-                    if (typeString.Contains("BulletEntity"))
+                    if (entity.GetType().Equals(typeof(BulletEntity)))
                     {
                         BulletEntity bulletEntity = entity as BulletEntity;
                         obj = Factory.Build<GameObject>((GraphicModule)_gameObjectPrototypes[prototypeID].Graphic.Clone(),
                                                                      (BulletEntity)bulletEntity.Clone());
                     }
-                    if (typeString.Contains("EnemyEntity"))
+                    if (entity.GetType().Equals(typeof(EnemyEntity)))
                     {
                         EnemyEntity bulletEntity = entity as EnemyEntity;
                         obj = Factory.Build<GameObject>((GraphicModule)_gameObjectPrototypes[prototypeID].Graphic.Clone(),
                                                                     (EnemyEntity)bulletEntity.Clone());
                     }
-                    if (typeString.Contains("PlayerEntity"))
+                    if (entity.GetType().Equals(typeof(PlayerEntity)))
                     {
                         PlayerEntity bulletEntity = entity as PlayerEntity;
                         obj = Factory.Build<GameObject>((GraphicModule)_gameObjectPrototypes[prototypeID].Graphic.Clone(),
@@ -66,16 +66,16 @@ namespace AsteroidDll
                     return obj as T;
                 }
             }
-            if (typeof(T).Name.Equals("GraphicModule"))
+
+            if (typeof(T).Equals(typeof(GraphicModule)))
             {
                 if (_graphicModulePrototypes.ContainsKey(prototypeID))
                 {
                     GraphicModule graphic = _graphicModulePrototypes[prototypeID];
-                    string typeString = graphic.ToString();
                     GameObject obj = null;
-                    if (typeString.Contains("Textured"))
+                    if (graphic.GetType().Equals(typeof(TexturedGraphicModule)))
                         return (TexturedGraphicModule)_graphicModulePrototypes[prototypeID].Clone() as T;
-                    if (typeString.Contains("GraphicModule"))
+                    if (graphic.GetType().Equals(typeof(GraphicModule)))
                         return (GraphicModule)_graphicModulePrototypes[prototypeID].Clone() as T;
 
                 }
